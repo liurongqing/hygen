@@ -1,5 +1,8 @@
 # hygen
 
+
+001
+
 1. hygen 生成一个命令
 
    ```bash
